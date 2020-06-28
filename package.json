@@ -4,4 +4,3 @@
   "private": true,
   "dependencies": {}
 }
-CoinbaseAuthenticationBearer auth = new CoinbaseAuthenticationApiKey("{MY_COINBASE_API_KEY}");
